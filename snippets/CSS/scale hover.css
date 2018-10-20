@@ -1,0 +1,5 @@
+#nav li a:hover{
+/* This should make your navigation links zoom slightly on hover */
+-webkit-transform: scale(1.1);
+-moz-transform: scale(1.1);
+}
