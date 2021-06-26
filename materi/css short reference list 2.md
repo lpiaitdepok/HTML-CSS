@@ -15,3 +15,6 @@
 * box-sizing
 * line-height
 * display
+
+# picture
+background
