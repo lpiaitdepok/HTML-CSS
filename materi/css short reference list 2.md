@@ -3,6 +3,7 @@
 * margin
 * margin-top
 * margin-left
+* margin-right
 * height
 * position
 * transform
@@ -13,3 +14,4 @@
 * max-width
 * box-sizing
 * line-height
+* display
