@@ -1,1 +1,4 @@
-disabled
+* disabled
+* action
+* method
+* name
